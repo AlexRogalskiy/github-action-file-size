@@ -1,0 +1,12 @@
+[
+    {
+        "reportName": "african proverbs report",
+        "sourceFilePath": "./data/african_proverbs.json",
+        "targetFilePath": "./data/african_proverbs_unique.json"
+    },
+    {
+        "reportName": "gypsy proverbs report",
+        "sourceFilePath": "./data/gypsy_proverbs.json",
+        "targetFilePath": "./data/gypsy_proverbs_unique.json"
+    }
+]

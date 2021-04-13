@@ -1,0 +1,33 @@
+name: 'File Size'
+description: 'Provides comparing information on file file sizes'
+author: 'AlexRogalskiy'
+
+inputs:
+  sourceData:
+    description: 'JSON data source with action parameters'
+    required: false
+  reportName:
+    description: 'Report name'
+    required: false
+  sourceFilePath:
+    description: 'Source file path'
+    required: false
+  targetFilePath:
+    description: 'Target file path'
+    required: false
+  sizeUnit:
+    description: 'File size units (any of b|kb|mb|gb|tb|pb)'
+    required: false
+
+outputs:
+  fileReport:
+    description: 'JSON representation of files size report'
+
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
+
+# Ref: https://haya14busa.github.io/github-action-brandings/
+branding:
+  icon: 'package'
+  color: 'green'
