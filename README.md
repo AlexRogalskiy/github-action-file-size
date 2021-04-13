@@ -31,8 +31,8 @@
 [![dependencies Status](https://status.david-dm.org/gh/AlexRogalskiy/github-action-file-size.svg)](https://david-dm.org/AlexRogalskiy/github-action-file-size)
 [![devDependencies Status](https://status.david-dm.org/gh/AlexRogalskiy/github-action-file-size.svg)](https://david-dm.org/AlexRogalskiy/github-action-file-size?type=dev)
 
-[![Total alerts](https://img.shields.io/lgtm/alerts/g/AlexRogalskiy/github-action-file-size.svg?logo=lgtm\&logoWidth=18)](https://lgtm.com/projects/g/AlexRogalskiy/github-action-file-size/alerts/)
-[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/AlexRogalskiy/github-action-file-size.svg?logo=lgtm\&logoWidth=18)](https://lgtm.com/projects/g/AlexRogalskiy/github-action-file-size/context:javascript)
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/AlexRogalskiy/github-action-file-size.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/AlexRogalskiy/github-action-file-size/alerts/)
+[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/AlexRogalskiy/github-action-file-size.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/AlexRogalskiy/github-action-file-size/context:javascript)
 [![codecov](https://codecov.io/gh/AlexRogalskiy/github-action-file-size/branch/main/graph/badge.svg?token=qzbb9pz8x3)](https://codecov.io/gh/AlexRogalskiy/github-action-file-size)
 [![CI](https://github.com/AlexRogalskiy/github-action-file-size/workflows/CI/badge.svg)](https://github.com/AlexRogalskiy/github-action-file-size/actions/workflows/build.yml)
 [![CircleCI](https://circleci.com/gh/AlexRogalskiy/github-action-file-size.svg?style=shield)](https://circleci.com/gh/AlexRogalskiy/github-action-file-size)
@@ -84,7 +84,7 @@
     </a>
 </p>
 
-Provides operations on comparting size of files by input parameters.
+Provides comparison report on files size by input parameters.
 
 ## *Inputs*
 

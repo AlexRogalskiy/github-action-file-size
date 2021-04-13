@@ -1,5 +1,5 @@
 name: 'File Size'
-description: 'Provides comparing information on file file sizes'
+description: 'Provides report comparing information on file size'
 author: 'AlexRogalskiy'
 
 inputs:
