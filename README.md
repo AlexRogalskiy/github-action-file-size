@@ -11,8 +11,7 @@
 [![Chat](https://img.shields.io/badge/chat-discussions-success.svg)](https://github.com/AlexRogalskiy/github-action-file-size/discussions)
 
 [![DeepSource](https://deepsource.io/gh/AlexRogalskiy/github-action-file-size.svg/?label=active+issues&show_trend=true)](https://deepsource.io/gh/AlexRogalskiy/github-action-file-size/?ref=repository-badge)
-[![DeepScan grade](https://deepscan.io/api/teams/11946/projects/16314/branches/347248/badge/grade.svg)](https://deepscan.io/dashboard#view=project\&tid=11946\&pid=16314\&bid=347248)
-
+[![DeepScan grade](https://deepscan.io/api/teams/11946/projects/16679/branches/362661/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=11946&pid=16679&bid=362661)
 ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/AlexRogalskiy/github-action-file-size)
 ![GitHub Release Date](https://img.shields.io/github/release-date/AlexRogalskiy/github-action-file-size)
 ![Lines of code](https://tokei.rs/b1/github/AlexRogalskiy/github-action-file-size?category=lines)
