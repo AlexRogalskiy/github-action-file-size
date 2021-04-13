@@ -42,7 +42,7 @@ const processSourceFile = async (options: ConfigOptions): Promise<ReportStatus> 
     }
 }
 
-const buildConfigOptions = async (options: Partial<ConfigOptions>): Promise<ConfigOptions> => {
+const buildConfigOptions = (options: Partial<ConfigOptions>): ConfigOptions => {
     const reportName = options.reportName || getRequiredProperty('reportName')
     const sourceFilePath = options.sourceFilePath || getRequiredProperty('sourceFilePath')
     const targetFilePath = options.targetFilePath || getRequiredProperty('targetFilePath')
@@ -58,7 +58,7 @@ const buildConfigOptions = async (options: Partial<ConfigOptions>): Promise<Conf
 }
 
 const getOperationStatus = async (option: Partial<ConfigOptions>): Promise<ReportStatus> => {
-    const options = await buildConfigOptions(option)
+    const options = buildConfigOptions(option)
 
     return await processSourceFile(options)
 }
