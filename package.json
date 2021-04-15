@@ -1,9 +1,8 @@
 {
     "name": "github-action-file-size",
     "version": "0.0.0-dev",
-    "description": "Automatically generate file size report by provided parameters",
+    "description": "Automatically generates file size reports by provided parameters",
     "main": "dist/index.js",
-    "types": "dist/index.d.ts",
     "license": "GPL-3.0",
     "private": true,
     "scripts": {

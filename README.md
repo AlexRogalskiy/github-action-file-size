@@ -1,6 +1,6 @@
 # *File Size*
 
-> GitHub Action to provide comparison information on file size
+> GitHub Action to provide file size reports
 
 [![GitHub marketplace](https://img.shields.io/badge/marketplacegithub-file--size-blue?logo=github)](https://github.com/marketplace/actions/file-size)
 
