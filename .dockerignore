@@ -1,0 +1,7 @@
+/.circleci
+/.dependabot
+/.github
+/.husky
+/docs
+/node_modules
+npm-debug.log
