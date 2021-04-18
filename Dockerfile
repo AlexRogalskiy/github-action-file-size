@@ -41,7 +41,7 @@ WORKDIR $APP_DIR
 ## Copying project sources
 COPY dist/index.js .
 
-COPY package*.json .
+COPY package*.json ./
 
 ## Installing project dependencies
 RUN npm install
