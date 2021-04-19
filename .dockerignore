@@ -4,4 +4,12 @@
 /.husky
 /docs
 /node_modules
-npm-debug.log
+
+.git/
+coverage/
+logs/
+build/
+.vscode/
+
+*Dockerfile
+*.log
