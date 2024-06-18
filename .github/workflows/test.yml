@@ -17,11 +17,11 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Validate
-        uses: docker/bake-action@v1
+        uses: docker/bake-action@v5
         with:
           targets: validate
       - name: Test
-        uses: docker/bake-action@v1
+        uses: docker/bake-action@v5
         with:
           targets: test
       - name: Upload coverage
